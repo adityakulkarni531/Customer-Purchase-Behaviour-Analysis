@@ -3,10 +3,10 @@
 
 ## Project Title: Customer Purchase Behavior Analysis
 
-##Description:
+### Description:
 In this project, I analyzed a sales dataset to generate various analytics and insights into customers' past purchase behavior. The project involved multiple stages, from basic data importation to advanced SQL querying and data visualization.
 
-##Key tasks and skills demonstrated in this project include:
+### Key tasks and skills demonstrated in this project include:
 
 Data Importation:
 Imported sales data into the SQL Server Database for analysis.

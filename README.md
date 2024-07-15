@@ -18,8 +18,8 @@ Window Functions: Applied SQL window functions to perform running totals, moving
 Sub Queries: Implemented sub-queries to filter and organize data for detailed insights.
 Common Table Expressions (CTEs): Used CTEs for simplifying complex queries and improving readability.
 SQL XML Path Function: Leveraged the SQL XML Path function to concatenate and format data.
-Customer Segmentation:
 
+Customer Segmentation:
 Performed RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchase behavior.
 
 Data Visualization with Tableau:
@@ -29,11 +29,17 @@ Visualized key performance indicators and customer segments to facilitate data-d
 Technologies Used:
 SQL Server
 Tableau
+
 Key Skills:
 
 SQL Aggregate Functions
+
 SQL Window Functions
+
 SQL Sub Query
+
 Common Table Expressions (CTEs)
+
 SQL XML Path Function
+
 Data Visualization
